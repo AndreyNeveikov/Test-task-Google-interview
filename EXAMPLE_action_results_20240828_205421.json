@@ -1,0 +1,28 @@
+{
+    "results": [
+        {
+            "Identifier": "8.8.8.8",
+            "Type": "IP_ADDRESS",
+            "LastAnalysisTime": "2024-08-28 05:47:08",
+            "IsMalicious": false
+        },
+        {
+            "Identifier": "maliciouswebsite.com",
+            "Type": "URL",
+            "LastAnalysisTime": "2024-07-15 15:14:08",
+            "IsMalicious": false
+        },
+        {
+            "Identifier": "1.1.1.1",
+            "Type": "IP_ADDRESS",
+            "LastAnalysisTime": "2024-08-28 18:17:24",
+            "IsMalicious": true
+        },
+        {
+            "Identifier": "suspicious-link.net",
+            "Type": "URL",
+            "LastAnalysisTime": "2019-07-03 13:06:51",
+            "IsMalicious": false
+        }
+    ]
+}
